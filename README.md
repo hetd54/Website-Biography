@@ -12,3 +12,6 @@ A contact form which users may submit a message to me. The backend is not implem
 
 #### Blender
 A image gallery of blender models that I have created.
+
+## Deployment
+This site is hosted using Netlify at: https://lucky-concha-6f6d73.netlify.app/
